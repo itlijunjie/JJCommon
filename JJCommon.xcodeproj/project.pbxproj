@@ -10,16 +10,14 @@
 		0E042A6A1AF2725000AEE714 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042A691AF2725000AEE714 /* main.m */; };
 		0E042A6D1AF2725000AEE714 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042A6C1AF2725000AEE714 /* AppDelegate.m */; };
 		0E042A701AF2725000AEE714 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042A6F1AF2725000AEE714 /* ViewController.m */; };
-		0E042A731AF2725000AEE714 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A711AF2725000AEE714 /* Main.storyboard */; };
 		0E042A751AF2725000AEE714 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A741AF2725000AEE714 /* Images.xcassets */; };
-		0E042A781AF2725000AEE714 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A761AF2725000AEE714 /* LaunchScreen.xib */; };
 		0E042A841AF2725000AEE714 /* JJCommonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042A831AF2725000AEE714 /* JJCommonTests.m */; };
-		0E042A971AF2793B00AEE714 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A951AF2793A00AEE714 /* LICENSE */; };
-		0E042A981AF2793B00AEE714 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 0E042A961AF2793A00AEE714 /* README.md */; };
 		0E042AA41AF281D300AEE714 /* JJFileUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AA31AF281D300AEE714 /* JJFileUtil.m */; };
 		0E042AAB1AF2842D00AEE714 /* JJDateUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AAA1AF2842D00AEE714 /* JJDateUtil.m */; };
 		0E042AAF1AF2865000AEE714 /* NSString+JJStringUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AAE1AF2865000AEE714 /* NSString+JJStringUtil.m */; };
 		0E20ED961B08D02D001B0373 /* JJCommon.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 0E20ED951B08D02D001B0373 /* JJCommon.podspec */; };
+		0E9769581B08D4A100C78C3C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A761AF2725000AEE714 /* LaunchScreen.xib */; };
+		0E9769591B08D4B200C78C3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E042A711AF2725000AEE714 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -266,9 +264,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E042A731AF2725000AEE714 /* Main.storyboard in Resources */,
-				0E042A781AF2725000AEE714 /* LaunchScreen.xib in Resources */,
-				0E042A971AF2793B00AEE714 /* LICENSE in Resources */,
+				0E9769591B08D4B200C78C3C /* Main.storyboard in Resources */,
+				0E9769581B08D4A100C78C3C /* LaunchScreen.xib in Resources */,
 				0E042A751AF2725000AEE714 /* Images.xcassets in Resources */,
 				0E20ED961B08D02D001B0373 /* JJCommon.podspec in Resources */,
 			);
@@ -292,7 +289,6 @@
 				0E042A701AF2725000AEE714 /* ViewController.m in Sources */,
 				0E042A6D1AF2725000AEE714 /* AppDelegate.m in Sources */,
 				0E042AAB1AF2842D00AEE714 /* JJDateUtil.m in Sources */,
-				0E042A981AF2793B00AEE714 /* README.md in Sources */,
 				0E042A6A1AF2725000AEE714 /* main.m in Sources */,
 				0E042AA41AF281D300AEE714 /* JJFileUtil.m in Sources */,
 			);
