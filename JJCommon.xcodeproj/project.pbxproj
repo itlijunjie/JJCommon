@@ -19,6 +19,7 @@
 		0E042AA41AF281D300AEE714 /* JJFileUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AA31AF281D300AEE714 /* JJFileUtil.m */; };
 		0E042AAB1AF2842D00AEE714 /* JJDateUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AAA1AF2842D00AEE714 /* JJDateUtil.m */; };
 		0E042AAF1AF2865000AEE714 /* NSString+JJStringUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E042AAE1AF2865000AEE714 /* NSString+JJStringUtil.m */; };
+		0E20ED961B08D02D001B0373 /* JJCommon.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 0E20ED951B08D02D001B0373 /* JJCommon.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		0E042AAD1AF2865000AEE714 /* NSString+JJStringUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+JJStringUtil.h"; sourceTree = "<group>"; };
 		0E042AAE1AF2865000AEE714 /* NSString+JJStringUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+JJStringUtil.m"; sourceTree = "<group>"; };
 		0E042AB11AF287A900AEE714 /* JJCommonMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JJCommonMacro.h; sourceTree = "<group>"; };
+		0E20ED951B08D02D001B0373 /* JJCommon.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = JJCommon.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		0E042A5B1AF2725000AEE714 = {
 			isa = PBXGroup;
 			children = (
+				0E20ED951B08D02D001B0373 /* JJCommon.podspec */,
 				0E042A951AF2793A00AEE714 /* LICENSE */,
 				0E042A961AF2793A00AEE714 /* README.md */,
 				0E042A8F1AF2729200AEE714 /* Source */,
@@ -267,6 +270,7 @@
 				0E042A781AF2725000AEE714 /* LaunchScreen.xib in Resources */,
 				0E042A971AF2793B00AEE714 /* LICENSE in Resources */,
 				0E042A751AF2725000AEE714 /* Images.xcassets in Resources */,
+				0E20ED961B08D02D001B0373 /* JJCommon.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
